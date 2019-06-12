@@ -73,7 +73,7 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
     color: black;
-    font-family: 'Work Sans', '-apple-system', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     background: white;
     font-size: 18px;
   }
@@ -250,12 +250,6 @@ const Layout = ({ children, color }: LayoutProps) => {
             </Flex>
           </SideBarInner>
           <Main>{children}</Main>
-          <Footer color={color}>
-            <Box p={[6, 6, 8]} fontSize={0}>
-              Starter by <a href="https://www.lekoarts.de/en">LekoArts</a>.<br />
-              <a href="https://github.com/LekoArts/gatsby-starter-portfolio-jodie">Source</a>.
-            </Box>
-          </Footer>
         </Wrapper>
       </>
     </ThemeProvider>

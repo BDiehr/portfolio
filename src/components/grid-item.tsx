@@ -30,11 +30,6 @@ const GridItem = styled(Link)`
       padding: ${props => props.theme.space[5]};
     }
   }
-  &:hover {
-    > div img {
-      transform: scale(1.1);
-    }
-  }
 `
 
 export default GridItem
