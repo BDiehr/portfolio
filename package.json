@@ -81,9 +81,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bdiehr/gatsby-starter-portfolio-jodie"
+    "url": "https://github.com/bdiehr/portfolio"
   },
   "bugs": {
-    "url": "https://github.com/bdiehr/gatsby-starter-portfolio-jodie/issues"
+    "url": "https://github.com/bdiehr/portfolio/issues"
   }
 }
