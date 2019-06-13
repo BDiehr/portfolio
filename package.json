@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-jodie",
+  "name": "portfolio-blog-site",
   "private": true,
-  "description": "Image-heavy photography portfolio with colorful accents & great typography",
+  "description": "A person site made using Gatsby, Rect & GraphQL",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -43,6 +43,7 @@
     "gatsby-source-instagram": "^0.5.0",
     "gatsby-transformer-sharp": "^2.1.21",
     "gatsby-transformer-yaml": "^2.1.12",
+    "netlify-cms-app": "^2.9.1",
     "polished": "^3.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -80,9 +81,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie"
+    "url": "https://github.com/bdiehr/gatsby-starter-portfolio-jodie"
   },
   "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie/issues"
+    "url": "https://github.com/bdiehr/gatsby-starter-portfolio-jodie/issues"
   }
 }
